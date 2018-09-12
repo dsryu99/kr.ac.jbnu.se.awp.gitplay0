@@ -5,6 +5,8 @@ public class HelloGit {
 		System.out.println("Hello Git!!");
 		
 		System.out.println("Hello Git ???");
+		// I added the following part.
+		System.out.println("This is a confliction test.");
 	}
 	// add comment: This is Hello Git.
 
